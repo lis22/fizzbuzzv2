@@ -1,0 +1,37 @@
+body {
+  /*https://www.flickr.com/photos/chiaralily/12142009325/ */
+  background-image: url(../images/bubble.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+
+.page-header {
+ text-align: center;
+ border-bottom:1px solid black;
+}
+
+.container {
+  background-color: #DCE8F8;
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 1.2em;
+  min-height: 45em;
+}
+
+.control-label {
+  visibility: hidden;
+  color: red;
+  font-weight: 200;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.btn {
+  margin-top: 2%;
+}
+
+#fizzBuzzList {
+  list-style: none;
+  padding: 0;
+}
